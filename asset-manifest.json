@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flyingdoctors_test/static/css/main.dfddf197.css",
+    "main.js": "/flyingdoctors_test/static/js/main.df67eab2.js",
+    "static/js/453.e196690f.chunk.js": "/flyingdoctors_test/static/js/453.e196690f.chunk.js",
+    "index.html": "/flyingdoctors_test/index.html",
+    "main.dfddf197.css.map": "/flyingdoctors_test/static/css/main.dfddf197.css.map",
+    "main.df67eab2.js.map": "/flyingdoctors_test/static/js/main.df67eab2.js.map",
+    "453.e196690f.chunk.js.map": "/flyingdoctors_test/static/js/453.e196690f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfddf197.css",
+    "static/js/main.df67eab2.js"
+  ]
+}
